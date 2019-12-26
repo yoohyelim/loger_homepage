@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+* {
+	
+}
+
+.mid {
+
+}
+
+.foot {
+
+}
+
+.out {
+	width: 100%;
+	text-align: center;
+}
+
+.in {
+	display: inline-block;
+}
+
+#main_img {
+	size: 20%;	
+}
+.link img {
+	overflow: hidden;
+	display: inline;
+	align-items: center;
+	justify-content: center;
+	height: 70px;
+}
