@@ -22,12 +22,10 @@
 }
 
 #main_img {
-	size: 20%;	
+	max-width: 80%;
+	height: auto;
 }
 .link img {
-	overflow: hidden;
-	display: inline;
-	align-items: center;
-	justify-content: center;
-	height: 70px;
+	max-width: 5%;
+	height: auto;
 }
